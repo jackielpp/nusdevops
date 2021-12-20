@@ -12,3 +12,11 @@ Here are my food options:
 * pizza
 * mee goreng
 * prata
+
+### Tea time?  
+
+Some of my favourite beverages:
+
+* coffee
+* matcha
+* kombucha
