@@ -1,5 +1,5 @@
 # This is the title of my page
-
+![image](https://github.com/jackielpp/nusdevops/blob/main/mountain.jfif)
 lorem ipsum
 
 ## I believe this will print a smaller text
